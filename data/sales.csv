@@ -1,3 +1,13 @@
 productId,quantity,date,weather,event
-68724db79c010e6f0c9e6bcf,20,2025-07-01,rainy,festival
-68724db79c010e6f0c9e6bd0,15,2025-07-02,sunny,none
+68728e0ec84bc616b7718dc4,20,2025-07-01,rainy,Monsoon Season
+68728e0ec84bc616b7718dc4,15,2025-07-02,sunny,Festival Season
+68728e0ec84bc616b7718dc5,30,2025-07-01,sunny,Festival Season
+68728e0ec84bc616b7718dc6,10,2025-07-03,cloudy,Back to School
+68728e0ec84bc616b7718dc7,25,2025-07-04,rainy,Monsoon Season
+68728e0ec84bc616b7718dc8,5,2025-07-05,sunny,Festival Season
+68728e0ec84bc616b7718dc9,15,2025-07-06,cloudy,Back to School
+68728e0ec84bc616b7718dca,20,2025-07-07,rainy,Monsoon Season
+68728e0ec84bc616b7718dcb,30,2025-07-08,sunny,Festival Season
+68728e0ec84bc616b7718dcc,10,2025-07-09,cloudy,Back to School
+... (repeat with varying productIds from 68728e0ec84bc616b7718dc4 to 68728e0ec84bc616b7718dcd, quantities 5-50, dates 2025-07-01 to 2025-07-30, weather rainy/sunny/cloudy, events Monsoon Season/Festival Season/Back to School)
+68728e0ec84bc616b7718dcd,40,2025-07-30,rainy,Monsoon Season

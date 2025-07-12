@@ -1,5 +1,51 @@
-name,category,price,stock,brand,tags
-Protein Bar,Food,150,100,Nestle,fitness,healthy
-Running Shoes,Fashion,2500,50,Nike,fitness,sports
-Cereal,Food,200,200,Local,breakfast,budget
-Umbrella,Accessories,499,30,Generic,rainy,utility
+id,name,category,price,stock,brand,tags,demand,image
+1,Protein Bars,Health,299,45,Nutri,fitness;health,85,🥜
+2,Organic Cereals,Food,450,23,Nestle,healthy,92,🥣
+3,Yoga Mat,Fitness,1200,12,Nike,fitness,78,🧘
+4,Green Tea,Health,350,67,Lipton,healthy,88,🍵
+5,Bluetooth Headphones,Electronics,2500,8,JBL,technology,95,🎧
+6,Laptop Bag,Accessories,1800,15,Targus,travel,73,💼
+7,Running Shoes,Fashion,3500,25,Adidas,fitness;sports,90,👟
+8,Smartwatch,Electronics,5000,10,Apple,technology;fitness,98,⌚
+9,Cooking Pot,Kitchen,1200,40,Prestige,cooking,70,🍲
+10,Book Stand,Furniture,600,50,IKEA,reading,65,📚
+11,Travel Backpack,Accessories,2500,20,Samsonite,travel,80,🎒
+12,Protein Powder,Health,800,30,Optimum,fitness;health,87,🥛
+13,Air Fryer,Kitchen,4000,15,Philips,cooking;health,85,🍳
+14,Noise-Canceling Earbuds,Electronics,3000,12,Sony,technology,92,🎧
+15,Desk Lamp,Furniture,700,45,Philips,reading,68,💡
+16,Hiking Boots,Fashion,4500,18,Columbia,travel;fitness,82,🥾
+17,Vegan Protein Bars,Health,350,28,Alpro,vegan;fitness,89,🥗
+18,Blender,Kitchen,2500,22,Bosch,cooking,75,🥤
+19,Gaming Mouse,Electronics,1500,35,Logitech,gaming;technology,90,🎮
+20,Journal Notebook,Furniture,300,60,Camlin,reading,70,📓
+21,Camping Tent,Accessories,6000,10,Decathlon,travel,78,⛺
+22,Multivitamins,Health,500,50,Century,health,85,💊
+23,Electric Kettle,Kitchen,1200,30,Morphy Richards,cooking,72,☕
+24,Gaming Keyboard,Electronics,2000,20,Razer,gaming,88,⌨️
+25,Portable Speaker,Accessories,3000,15,JBL,technology;travel,90,🔊
+26,Yoga Pants,Fashion,1500,25,Lululemon,fitness,80,👖
+27,Gluten-Free Bread,Food,250,40,Bfree,gluten-free;healthy,87,🍞
+28,Chess Set,Furniture,800,30,Staples,reading,65,♟️
+29,Sleeping Bag,Accessories,3500,12,Coleman,travel,75,🛏️
+30,Fish Oil Supplements,Health,600,45,Nature Made,health,83,🐟
+31,Toaster Oven,Kitchen,3000,18,Breville,cooking,70,🍞
+32,VR Headset,Electronics,10000,8,Oculus,gaming;technology,95,🎮
+33,Backpack Cooler,Accessories,2000,20,Yeti,travel;health,78,🥶
+34,Resistance Bands,Health,500,50,Fit Simplify,fitness,85,💪
+35,Microwave,Kitchen,6000,15,LG,cooking,72,🍽️
+36,Wireless Router,Electronics,3500,25,TP-Link,technology,88,📶
+37,Casual Jacket,Fashion,2500,30,Uniqlo,travel,80,🧥
+38,Quinoa,Food,300,60,Trader Joe’s,healthy;vegan,90,🌾
+39,Art Supplies,Furniture,1000,40,Faber-Castell,reading,70,🎨
+40,Surfboard,Accessories,8000,10,Quiksilver,travel;fitness,82,🏄
+41,Vitamin C Tablets,Health,400,50,Nature’s Bounty,health,84,🍊
+42,Rice Cooker,Kitchen,2500,25,Panasonic,cooking,73,🍚
+43,Gaming Chair,Furniture,6000,15,Secretlab,gaming,90,🎮
+44,Smart Light Bulb,Electronics,1500,30,Philips,technology,85,💡
+45,Travel Pillow,Accessories,800,40,Therapedic,travel,75,🛌
+46,Spin Bike,Health,12000,10,Peloton,fitness,92,🚴
+47,Slow Cooker,Kitchen,3000,20,Crock-Pot,cooking,70,🍲
+48,External Hard Drive,Electronics,4000,25,Seagate,technology,88,💾
+49,Winter Coat,Fashion,4000,20,Canada Goose,travel,80,🧥
+50,Kids’ Books,Furniture,500,50,Penguin,reading,65,📖
