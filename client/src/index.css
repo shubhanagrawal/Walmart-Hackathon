@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(to bottom right, #e0f7fa, #fff3e0, #fce4ec);
+  color: #374151;
+}
+
+.bg-white {
+  background-color: #ffffff;
+}
+
+.border-gray-200 {
+  border-color: #e5e7eb;
+}
+
+.text-gray-800 {
+  color: #1f2937;
+}
+
+.text-gray-600 {
+  color: #4b5563;
+}
+
+.text-gray-500 {
+  color: #6b7280;
+}
+
+.bg-gray-200 {
+  background-color: #e5e7eb;
+}
+
+.hover:bg-gray-300 {
+  background-color: #d1d5db;
+}
+
+.focus:ring-blue-500 {
+  --tw-ring-color: #3b82f6;
+}
+
+.bg-blue-600 {
+  background-color: #2563eb;
+}
+
+.hover:bg-blue-700 {
+  background-color: #1d4ed8;
+}
+
+.bg-green-600 {
+  background-color: #16a34a;
+}
+
+.hover:bg-green-700 {
+  background-color: #15803d;
+}
+
+.bg-red-100 {
+  background-color: #fee2e2;
+}
+
+.bg-yellow-100 {
+  background-color: #fefcbf;
+}
+
+.bg-green-100 {
+  background-color: #d1fae5;
+}
+
+.text-red-600 {
+  color: #dc2626;
+}
+
+.text-yellow-600 {
+  color: #ca8a04;
+}
+
+.text-green-600 {
+  color: #16a34a;
+}
+
+.text-blue-600 {
+  color: #2563eb;
+}
